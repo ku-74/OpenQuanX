@@ -1,5 +1,5 @@
 # 应用名称：1Blocker
-
+# 重写资源路径：https://raw.githubusercontent.com/ku-74/OpenQuanX/refs/heads/main/ReWrite/UnlockEver/1Blocker.js
 
 [mitm]
 hostname = api.revenuecat.com
