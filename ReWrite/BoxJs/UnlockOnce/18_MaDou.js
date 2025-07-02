@@ -1,3 +1,7 @@
+# 重写地址：https://raw.githubusercontent.com/ku-74/OpenQuanX/refs/heads/main/ReWrite/BoxJs/UnlockOnce/18_MaDou.js
+
+
+
 # 麻豆网址：https://d1skbu98kuldnf.cloudfront.net/
 
 
