@@ -1,3 +1,6 @@
+# 应用名称：1Blocker
+
+
 [mitm]
 hostname = api.revenuecat.com
 
