@@ -1,7 +1,7 @@
 {
-  "id": "XiaoMao.app.sub",
-  "name": "XiaoMao辅助脚本订阅",
-  "author": "@XiaoMao",
+"id": "OpenBoxJs",
+  "name": "辅助脚本订阅",
+  "author": "@ku-74",
   "icon": "https://avatars.githubusercontent.com/u/49260609",
   "repo": "https://github.com/xiaomaoJT/QxScript",
   "apps": [
@@ -458,7 +458,7 @@
         "HotListVipDay"
       ],
       "descs_html": [
-        "<h4 align=\"center\">脚本配置请查看<a href=\"https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoTodayHotList.js\">脚本注释</a></h4>"
+        "<h4 align=\"center\">脚本配置请查看<a href=\"https://raw.githubusercontent.com/ku-74/OpenQuanX/refs/heads/main/ReWrite/BoxJs/TodayHotList.js\">脚本注释</a></h4>"
       ],
       "settings": [
         {
