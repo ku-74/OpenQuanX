@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/ku-74/OpenQuanX/refs/heads/main/ReWrite/BoxJs/
 【二此步骤可省略，会员到期时间永远定格明天，失效请重开app】
 
 3、QX > 右下角风车 > 重写 > 规则资源 > 引用以下脚本 > 打开资源解析器
-  https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoTodayHotList.js
+https://raw.githubusercontent.com/ku-74/OpenQuanX/refs/heads/main/ReWrite/BoxJs/TodayHotList.js
   
 ********************************
 
