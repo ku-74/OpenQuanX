@@ -5,7 +5,7 @@
 
 使用方法：
 1、使用BoxJS（浏览器里）增加以下脚本订阅。
-https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMao.json
+https://raw.githubusercontent.com/ku-74/OpenQuanX/refs/heads/main/ReWrite/BoxJs/BosJs_0.js
 
 2、通过boxjs设置vip到期时间及等级
 【二此步骤可省略，会员到期时间永远定格明天，失效请重开app】
