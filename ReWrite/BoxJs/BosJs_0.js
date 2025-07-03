@@ -1,6 +1,6 @@
 {
 "id": "OpenBoxJs",
-  "name": "辅助脚本订阅",
+  "name": "辅助脚本",
   "author": "@ku-74",
   "icon": "https://avatars.githubusercontent.com/u/49260609",
   "repo": "https://github.com/ku-74/OpenQuanX/blob/main/ReWrite/BoxJs",
