@@ -35,8 +35,6 @@
           "desc": "百度翻译API-securityKey"
         }
       ],
-      "author": "@ku-74",
-      "repo": "https://github.com/ku-74/OpenQuanX/blob/main/ReWrite/BoxJs",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/spotify.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/spotify.png"
@@ -93,8 +91,6 @@
           "desc": "填入会员Token"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/caiyun.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/caiyun.png"
@@ -151,8 +147,6 @@
           "desc": "会员等级 范围1～10"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/baidu.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/baidu.png"
@@ -229,8 +223,6 @@
           "desc": "解锁将失去部分能力 具体见脚本介绍 1:解锁 0:默认关闭"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/butter.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/butter.png"
@@ -277,8 +269,6 @@
           "desc": "vip过期时间-日期 如：10"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/b612.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/b612.png"
@@ -335,8 +325,6 @@
           "desc": "云空间总量 GB"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/wps.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/wps.png"
@@ -393,8 +381,6 @@
           "desc": "0 为不开启；1 为开启"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/scan.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/scan.png"
@@ -441,8 +427,6 @@
           "desc": "vip过期时间-日期 如：10"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/xmind.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/xmind.png"
@@ -489,8 +473,6 @@
           "desc": "vip过期时间-日期 如：10"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/hot.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/hot.png"
@@ -537,8 +519,6 @@
           "desc": "svip过期时间-日期 如：10"
         }
       ],
-      "author": "@ku-74",
-      "repo": "https://github.com/ku-74/OpenQuanX/blob/main/ReWrite/BoxJs",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/duitang.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/duitang.png"
@@ -655,8 +635,6 @@
           "desc": "默认字样为 第一股东"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/alic.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/alic.png"
@@ -703,8 +681,6 @@
           "desc": "【非必填】输入区级简称拼音 如南山：nanshan"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/oil.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/oil.png"
@@ -751,8 +727,6 @@
           "desc": "默认全显示，显示10条请输入 10"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/list.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/list.png"
@@ -789,8 +763,6 @@
           "desc": "【填入首字母（大写）】如 今日运势+明日运势：D+T"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/star.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/star.png"
@@ -817,8 +789,6 @@
           "desc": "按解锁输入数字 如解锁第一章节，输入 1"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/efh.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/efh.png"
@@ -885,8 +855,6 @@
           "desc": "输入工资 如 3000"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/work.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/work.png"
@@ -933,8 +901,6 @@
           "desc": "将屏蔽让你反感的标题、用户字眼，多个用英文,隔开"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/xiaohongshu.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/xiaohongshu.png"
@@ -961,8 +927,6 @@
           "desc": "1为风景,2为二次元,3为福利姬（电脑）,4为福利姬（手机），默认为随机输出"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/pic.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/pic.png"
@@ -1009,8 +973,6 @@
           "desc": "关闭话题评分，1为关闭，0为开启，默认开启"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/cool.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/cool.png"
@@ -1037,8 +999,6 @@
           "desc": "默认设备iPhone 15 Pro Max 👉「iPhone16,2」"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/apple.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/apple.png"
