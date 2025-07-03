@@ -3,7 +3,7 @@
   "name": "辅助脚本订阅",
   "author": "@ku-74",
   "icon": "https://avatars.githubusercontent.com/u/49260609",
-  "repo": "https://github.com/xiaomaoJT/QxScript",
+  "repo": "https://github.com/ku-74/OpenQuanX/blob/main/ReWrite/BoxJs",
   "apps": [
     {
       "id": "spotifyApp",
@@ -35,8 +35,8 @@
           "desc": "百度翻译API-securityKey"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
+      "author": "@ku-74",
+      "repo": "https://github.com/ku-74/OpenQuanX/blob/main/ReWrite/BoxJs",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/spotify.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/spotify.png"
@@ -537,8 +537,8 @@
           "desc": "svip过期时间-日期 如：10"
         }
       ],
-      "author": "@XiaoMao",
-      "repo": "https://github.com/xiaomaoJT/QxScript",
+      "author": "@ku-74",
+      "repo": "https://github.com/ku-74/OpenQuanX/blob/main/ReWrite/BoxJs",
       "icons": [
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/duitang.png",
         "https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/icon/duitang.png"
