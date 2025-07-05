@@ -1,12 +1,10 @@
-/*
- * one2jj
- * 解锁会员
- * 适配网页和app
- * baby&yqc
+# 无限网址：https://one2jj.com
+
+
 
 [rewrite_local]
 
-^https?:\/\/((cdn\.a2pi3\.com|xiapo6\.com|\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})(\/api\/vodapi\.html|\/Vodapi\.html|\/vodapi\.html))$ url script-request-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/one2jj.js
+^https?:\/\/((cdn\.a2pi3\.com|xiapo6\.com|\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})(\/api\/vodapi\.html|\/Vodapi\.html|\/vodapi\.html))$ url script-request-body
 
 [mitm]
 hostname = cdn.a2pi3.com, xiapo6.com
