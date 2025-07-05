@@ -1,7 +1,7 @@
 # XVideos
 # 网页地址：https://dlqrowpypqqsg.cloudfront.net?dc=LSDH
 # 脚本地址：https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/xvideos.js
-
+# [rewrite_local] 中的内容不是自己的，
 
 /* 
  Xvideos 
