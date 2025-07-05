@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-^https?:\/\/((cdn\.a2pi3\.com|xiapo6\.com|\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})(\/api\/vodapi\.html|\/Vodapi\.html|\/vodapi\.html))$ url script-request-body
+^https?:\/\/((cdn\.a2pi3\.com|xiapo6\.com|\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})(\/api\/vodapi\.html|\/Vodapi\.html|\/vodapi\.html))$ url script-request-body https://raw.githubusercontent.com/ku-74/OpenQuanX/refs/heads/main/ReWrite/UnlockOnce/18_WuXian.js
 
 [mitm]
 hostname = cdn.a2pi3.com, xiapo6.com
