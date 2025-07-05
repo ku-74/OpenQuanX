@@ -1,5 +1,7 @@
-# 麻豆网址：https://d1skbu98kuldnf.cloudfront.net/
+# 麻豆：https://d1skbu98kuldnf.cloudfront.net/
+# 快手LuoLi：https://dnt92ffcqr0xu.cloudfront.net/
 # 重写资源地址：https://raw.githubusercontent.com/ku-74/OpenQuanX/refs/heads/main/ReWrite/UnlockOnce/18_MaDou.js
+
 
 [Script]
  # 会员
