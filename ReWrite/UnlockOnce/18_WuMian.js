@@ -1,5 +1,6 @@
 # 无限网址：https://one2jj.com
-
+# 是个好网址，但是脚本好像不能用，可以留着先看看
+# 原脚本地址：https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/one2jj.js
 
 
 [rewrite_local]
